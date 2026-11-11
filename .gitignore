@@ -1,0 +1,4 @@
+yedek/
+*.bin
+.venv/
+__pycache__/
